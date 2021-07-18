@@ -11,6 +11,18 @@ https://drive.google.com/file/d/1zTOpfFh7iQysfRD2MH6gn--etTNkrter/view
 
 https://www.youtube.com/playlist?list=PLymAQGA_lVahfm8nJgqEukzVBtt35rGuQ
 
+Doc Node.js: https://nodejs.org/pt-br/docs/
+
+Design de API Web: https://docs.microsoft.com/pt-br/azure/architecture/best-practices/api-design
+
+HTTP Status: https://httpstatusdogs.com/
+
+Nodemon npm: https://www.npmjs.com/package/nodemon
+
+Express: https://www.npmjs.com/package/express 
+
+File System: https://www.w3schools.com/nodejs/nodejs_filesystem.asp
+
 Como escrever um README.md incrível
 https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#o-que-%E9-o-readme
 
